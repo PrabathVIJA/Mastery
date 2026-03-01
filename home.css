@@ -1,6 +1,6 @@
-.button {
-  background-color: #4caf50;
-  color: white;
+.card {
+  padding: 10px 16px;
+  border: none;
 }
 .container {
   background-color: #f4f4f4;
