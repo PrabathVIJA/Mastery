@@ -1,6 +1,6 @@
 .card {
-   padding: 10px 16px;
-  border: none;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 20px auto;
 }
 .container {
   background-color: #f4f4f4;
